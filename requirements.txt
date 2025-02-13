@@ -1,0 +1,6 @@
+img2pdf
+pillow
+fpdf
+fpdf2
+PyPDF2
+tkinter
